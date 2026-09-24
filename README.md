@@ -76,10 +76,9 @@ Self-contained showcases built to be cloned and run: no external services or cre
 
 🔒 *Private: built for an employer, so the code can't be shared publicly. Happy to walk through the design and approach.*
 
-### 📊 GitHub Stats
+### 📊 Top Languages
 
 <p align="center">
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhingrachirag&theme=github" alt="GitHub Stats"/>
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhingrachirag&theme=github" alt="Top Languages"/>
 </p>
 
