@@ -54,16 +54,23 @@ Open to **Senior SDET / QE Leadership** roles at the intersection of **security 
 
 <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/OpenAI%20Codex-412991?style=flat&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white"/>
 
-### 🚀 Key Projects
+### 🚀 Featured Projects
+
+Self-contained showcases built to be cloned and run: no external services or credentials needed.
+
+| Project | What it demonstrates |
+|---|---|
+| **[robot-api-testing-showcase](https://github.com/dhingrachirag/robot-api-testing-showcase)** | Robot Framework + Python REST API testing: session reuse, async polling with backoff, error classification, and smart retries. Runs offline against a bundled mock API. |
+| **[robot-ssh-healthcheck-agentic](https://github.com/dhingrachirag/robot-ssh-healthcheck-agentic)** | SSH network health checks in Robot Framework with Robocop auto-healing, an MCP agent layer, and agent tests using robotframework-agenteval and robotframework-agentguard. Runs offline against simulated routers. |
+
+### 🗂️ Earlier Work
 
 | Project | What it does |
 |---|---|
-| **[Robot_Appium_Project](https://github.com/dhingrachirag/Robot_Appium_Project)** | Mobile app test automation framework built with Robot Framework + Appium |
-| **[Cucumber_Python_Project_Appium](https://github.com/dhingrachirag/Cucumber_Python_Project_Appium)** | BDD mobile test automation combining Cucumber, Python & Appium |
-| **[Robot_API_Project](https://github.com/dhingrachirag/Robot_API_Project)** | Reusable Robot Framework keyword library for REST API test automation |
-| **[USB_Peripheral_Automation](https://github.com/dhingrachirag/USB_Peripheral_Automation)** | Hardware-in-the-loop test automation for USB HID peripherals |
-| **[SSH_Python_Robot_Framework](https://github.com/dhingrachirag/SSH_Python_Robot_Framework)** | SSH-based infrastructure test automation using Python & Robot Framework |
-| **[Robot_SSH_Project](https://github.com/dhingrachirag/Robot_SSH_Project)** | Robot Framework SSH automation suite for remote system testing |
+| **[Robot_API_Project](https://github.com/dhingrachirag/Robot_API_Project)** | Robot Framework REST API suite for a multi-tenant platform: OAuth2 client-credentials auth, tenant/account discovery via JSONPath, and chained API validation. |
+| **[Robot_Appium_Project](https://github.com/dhingrachirag/Robot_Appium_Project)** | Robot Framework + Appium automation for Android collaboration devices: sign-in, calling, and shared-device sanity suites plus performance tests. |
+| **[Cucumber_Python_Project_Appium](https://github.com/dhingrachirag/Cucumber_Python_Project_Appium)** | Python + Appium BDD framework for multi-device Android testing, with ADB utilities, log parsing, and CPU/performance counter reporting. |
+| **[USB_Peripheral_Automation](https://github.com/dhingrachirag/USB_Peripheral_Automation)** | Hardware-in-the-loop testing for USB HID peripherals: keycode and Android intent checks via libusb and ADB, with generated reports. |
 
 ### 📊 GitHub Stats
 
