@@ -71,6 +71,10 @@ Self-contained showcases built to be cloned and run: no external services or cre
 | **[Robot_Appium_Project](https://github.com/dhingrachirag/Robot_Appium_Project)** | Robot Framework + Appium automation for Android collaboration devices: sign-in, calling, and shared-device sanity suites plus performance tests. |
 | **[Cucumber_Python_Project_Appium](https://github.com/dhingrachirag/Cucumber_Python_Project_Appium)** | Python + Appium BDD framework for multi-device Android testing, with ADB utilities, log parsing, and CPU/performance counter reporting. |
 | **[USB_Peripheral_Automation](https://github.com/dhingrachirag/USB_Peripheral_Automation)** | Hardware-in-the-loop testing for USB HID peripherals: keycode and Android intent checks via libusb and ADB, with generated reports. |
+| **API_Python_Robot** 🔒 | Robot Framework + Python suite validating a DNS security platform's REST APIs across 15+ mobile-carrier integrations: async polling, session reuse, error classification, PKCS#12 certificate auth, and Pabot parallel runs in Jenkins. |
+| **SSH_Python_Robot_Framework** 🔒 | Robot Framework SSH health checks for border routers, AAA/RADIUS, and APN services across 20+ global data-center sites. Data-driven JSON site configs and Pabot parallelism cut a full run from 60 to 20 minutes. |
+
+🔒 *Private: built for an employer, so the code can't be shared publicly. Happy to walk through the design and approach.*
 
 ### 📊 GitHub Stats
 
