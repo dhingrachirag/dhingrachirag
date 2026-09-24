@@ -79,8 +79,8 @@ Self-contained showcases built to be cloned and run: no external services or cre
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhingrachirag&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhingrachirag&layout=compact&hide_border=true" alt="Top Languages"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhingrachirag&theme=github" alt="GitHub Stats"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhingrachirag&theme=github" alt="Top Languages"/>
 </p>
 
 ### 📫 Connect
