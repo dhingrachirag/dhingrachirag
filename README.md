@@ -67,7 +67,6 @@ Self-contained showcases built to be cloned and run: no external services or cre
 
 | Project | What it does |
 |---|---|
-| **[Robot_API_Project](https://github.com/dhingrachirag/Robot_API_Project)** | Robot Framework REST API suite for a multi-tenant platform: OAuth2 client-credentials auth, tenant/account discovery via JSONPath, and chained API validation. |
 | **[Robot_Appium_Project](https://github.com/dhingrachirag/Robot_Appium_Project)** | Robot Framework + Appium automation for Android collaboration devices: sign-in, calling, and shared-device sanity suites plus performance tests. |
 | **[Cucumber_Python_Project_Appium](https://github.com/dhingrachirag/Cucumber_Python_Project_Appium)** | Python + Appium BDD framework for multi-device Android testing, with ADB utilities, log parsing, and CPU/performance counter reporting. |
 | **[USB_Peripheral_Automation](https://github.com/dhingrachirag/USB_Peripheral_Automation)** | Hardware-in-the-loop testing for USB HID peripherals: keycode and Android intent checks via libusb and ADB, with generated reports. |
