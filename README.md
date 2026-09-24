@@ -32,6 +32,13 @@ Open to **Senior SDET / QE Leadership** roles at the intersection of **security 
 | Apexon | Test Lead | Architected a Python test framework from scratch for enterprise device testing |
 | Wipro Technologies | Test Engineer | API & protocol-level automation for networking security appliances |
 
+### ⚙️ CI/CD & Test Reporting
+
+- **Jenkins on VMware vSphere & Linode:** Provisioned and ran Jenkins on vSphere-hosted VMs and on Linode (Akamai Cloud) as the CI/CD backbone for test automation, covering controller/agent setup, job configuration, and scheduled regression runs.
+- **2,000+ automated test cases** executed through Jenkins jobs across Python and Robot Framework suites.
+- **Unified test dashboards:** JUnit results from Python and Robot Framework suites visualized with the Robot Framework, JUnit, Allure, Test Results Analyzer, and Dashboard View plugins, giving pass/fail trends, flaky-test visibility, and per-build drill-downs.
+- **Faster feedback:** Pabot parallel execution plus automated email/Slack notifications gave teams release-readiness status on every build.
+
 ### 🧰 Tech Stack
 
 **Languages**
@@ -44,7 +51,7 @@ Open to **Senior SDET / QE Leadership** roles at the intersection of **security 
 
 **CI/CD & Release Engineering**
 
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/VMware%20vSphere-607078?style=flat&logo=vmware&logoColor=white"/> <img src="https://img.shields.io/badge/Linode-00A95C?style=flat&logo=linode&logoColor=white"/> <img src="https://img.shields.io/badge/Allure%20Report-FF6B00?style=flat"/> <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white"/>
 
 **Security & Networking**
 
